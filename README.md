@@ -1,2 +1,1 @@
-# ecommercewacken
 # ecommerce-mobile-first
